@@ -1,0 +1,10 @@
+C:\Users\Loli\source\repos\ExcelPoC\bin\Debug\ExcelPoC.exe.config
+C:\Users\Loli\source\repos\ExcelPoC\bin\Debug\ExcelPoC.exe
+C:\Users\Loli\source\repos\ExcelPoC\bin\Debug\ExcelPoC.pdb
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.csprojAssemblyReference.cache
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.Form1.resources
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.Properties.Resources.resources
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.csproj.GenerateResource.cache
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.csproj.CoreCompileInputs.cache
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.exe
+C:\Users\Loli\source\repos\ExcelPoC\obj\Debug\ExcelPoC.pdb
